@@ -1,6 +1,6 @@
 # Witch Doctor
 
-![witch doctor](witch-doctor.png)
+![witch doctor](logo.png)
 
 a command-line tool for pulling documentation from several GitHub repositories into one project for static site generation.
 
