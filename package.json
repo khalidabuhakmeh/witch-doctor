@@ -1,6 +1,6 @@
 {
   "name": "witch-doctor",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "a command-line tool for pulling documentation from multiple git repositories into one project for static site generation.",
   "main": "index.js",
   "bin": {
