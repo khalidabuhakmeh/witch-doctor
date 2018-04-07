@@ -39,6 +39,10 @@ Next install the `witch-doctor` npm package.
 
 Finally, as part of a build, run `witch-doctor`.
 
+```console
+> witch-doctor witch-doctor.json
+```
+
 ## What Happens?
 
 Witch Doctor will clone all the repositories in your `witch-doctor.json` file and begin to copy the files from `source` to `target`. Once, all projects are processed, you can run the build script for your static site generator of choice: Jekyll, Hugo, etc.
