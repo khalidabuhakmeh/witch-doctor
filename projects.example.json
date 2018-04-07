@@ -1,0 +1,11 @@
+{
+    "projects": [
+        {
+            "name" : "<name>",
+            "source": "<source directory>",
+            "target": "<target directory>",
+            "repository" : "<github repository name>",
+            "branch" : "<repository name>"
+        }
+    ]
+}

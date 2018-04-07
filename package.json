@@ -2,6 +2,7 @@
   "name": "witch-doctor",
   "version": "0.0.1",
   "description": "a command-line tool for pulling documentation from multiple git repositories into one project for static site generation.",
+  "main": "index.js",
   "bin": {
     "snippet": "./index.js"
   },
@@ -24,10 +25,9 @@
   "homepage": "https://github.com/khalidabuhakmeh/witch-doctor#readme",
   "dependencies": {
     "chalk": "^2.3.2",
-    "co": "^4.6.0",
-    "co-prompt": "^1.0.0",
     "commander": "^2.15.1",
     "nodegit": "^0.21.2",
-    "progress": "^2.0.0"
+    "recursive-copy": "^2.0.9",
+    "rimraf": "^2.6.2"
   }
 }
